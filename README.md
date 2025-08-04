@@ -9,7 +9,7 @@ It allows users to explore delicious food, view team chefs, and make table reser
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](./frontend/public/mainPage.png)
+![Hero Section](./frontend/public/MainPage.png)
 
 ### Food Menu
 ![Food Menu](./frontend/public/menu.png)
@@ -17,10 +17,7 @@ It allows users to explore delicious food, view team chefs, and make table reser
 ### Reservation Form
 ![Reservation Confirmed](./frontend/public/reservationForm.png)
 
-### Reservation Confirmed
-![Reservation Confirmed](./frontend/public/reservationBook.png)
 
----
 
 ## 🔧 Tech Used
 
@@ -47,7 +44,7 @@ cd Restorant-Reservation
 open index.html in your browser
 ```
 ## Frontend and Backend Command 
-npm run dev
+npm run dev and npm run start
 ---
 
 ## 📂 Folder Structure
