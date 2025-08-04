@@ -12,10 +12,10 @@ It allows users to explore delicious food, view team chefs, and make table reser
 ![Hero Section](./frontend/public/MainPage.png)
 
 ### Food Menu
-![Food Menu](./frontend/public/menu.png)
+![Food Menu](./frontend/public/MainPage.png)
 
 ### Reservation Form
-![Reservation Confirmed](./frontend/public/reservationForm.png)
+![Reservation Confirmed](./frontend/public/ReservationForm.png)
 
 
 
